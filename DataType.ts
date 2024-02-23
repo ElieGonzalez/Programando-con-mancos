@@ -20,7 +20,7 @@
 // * THIS IS A NUMBER
 let myNumber: number;
 myNumber = 123;
-console.log(myNumber);
+//console.log(myNumber);
 
 //* THIS IS A STRING
 let myString: string;
